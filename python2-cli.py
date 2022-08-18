@@ -31,7 +31,7 @@ def usage(rc):
 def do(cmd):
     p = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE)
     (std, err) = p.communicate()
-    # rc = p.returncode
+    # rc = p.returncode # in case you need return code of the subprocess
     return std
 
 def main():
