@@ -1,3 +1,3 @@
-# Python2-CLI-template
-A bare-bones example for a command line script in Python 2.x.
+# Python2-CLI-templates
+Bare-bones examples for command line scripts in Python.
 Copy-paste and expand to suit your needs.
